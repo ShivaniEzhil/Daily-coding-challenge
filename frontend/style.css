@@ -1,0 +1,114 @@
+:root {
+    --bg-color: #0f172a;
+    --card-bg: #1e293b;
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --accent: #38bdf8;
+    --accent-hover: #7dd3fc;
+    --easy: #22c55e;
+    --medium: #f59e0b;
+    --hard: #ef4444;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    width: 100%;
+}
+
+.card {
+    background-color: var(--card-bg);
+    border-radius: 16px;
+    padding: 40px;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    transition: transform 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.date {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.difficulty {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 4px 12px;
+    border-radius: 9999px;
+    text-transform: uppercase;
+}
+
+.difficulty.easy { background: rgba(34, 197, 94, 0.1); color: var(--easy); }
+.difficulty.medium { background: rgba(245, 158, 11, 0.1); color: var(--medium); }
+.difficulty.hard { background: rgba(239, 68, 68, 0.1); color: var(--hard); }
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 16px;
+    line-height: 1.2;
+}
+
+p.description {
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 32px;
+    font-size: 1.1rem;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    background-color: var(--accent);
+    color: #000;
+    text-align: center;
+    padding: 14px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.2s;
+}
+
+.btn:hover {
+    background-color: var(--accent-hover);
+}
+
+.footer {
+    margin-top: 24px;
+    text-align: center;
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+}
+
+@media (max-width: 480px) {
+    .card { padding: 24px; }
+    h1 { font-size: 1.5rem; }
+}
