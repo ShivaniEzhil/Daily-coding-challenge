@@ -1,6 +1,7 @@
 {
-    "title": "Fibonacci Sequence",
-    "difficulty": "Medium",
-    "description": "Generate the first n numbers of the Fibonacci sequence.",
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.",
+    "link": "https://leetcode.com/problems/valid-parentheses/",
     "date": "2026-04-26"
 }

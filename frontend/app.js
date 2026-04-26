@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', async () => {
         difficultyEl.textContent = data.difficulty;
         difficultyEl.classList.add(data.difficulty.toLowerCase());
 
-        // Update link (could link to a search for the problem)
+        // Update link
         const solveBtn = document.getElementById('solve-btn');
-        solveBtn.href = `https://www.google.com/search?q=how+to+solve+${encodeURIComponent(data.title)}+programming+challenge`;
+        solveBtn.href = data.link || `https://www.google.com/search?q=how+to+solve+${encodeURIComponent(data.title)}+programming+challenge`;
         solveBtn.target = "_blank";
 
     } catch (error) {
