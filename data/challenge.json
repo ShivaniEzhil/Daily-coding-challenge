@@ -1,7 +1,7 @@
 {
-    "title": "Merge Two Sorted Lists",
+    "title": "Palindrome Number",
     "difficulty": "Easy",
-    "description": "Merge two sorted linked lists and return it as a sorted list.",
-    "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
-    "date": "2026-04-27"
+    "description": "Given an integer x, return true if x is a palindrome, and false otherwise.",
+    "link": "https://leetcode.com/problems/palindrome-number/",
+    "date": "2026-04-28"
 }
