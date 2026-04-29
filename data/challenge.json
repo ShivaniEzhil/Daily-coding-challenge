@@ -1,7 +1,7 @@
 {
-    "title": "Palindrome Number",
+    "title": "Longest Common Prefix",
     "difficulty": "Easy",
-    "description": "Given an integer x, return true if x is a palindrome, and false otherwise.",
-    "link": "https://leetcode.com/problems/palindrome-number/",
-    "date": "2026-04-28"
+    "description": "Write a function to find the longest common prefix string amongst an array of strings.",
+    "link": "https://leetcode.com/problems/longest-common-prefix/",
+    "date": "2026-04-29"
 }
