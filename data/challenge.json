@@ -1,7 +1,7 @@
 {
-    "title": "Longest Common Prefix",
+    "title": "Best Time to Buy and Sell Stock",
     "difficulty": "Easy",
-    "description": "Write a function to find the longest common prefix string amongst an array of strings.",
-    "link": "https://leetcode.com/problems/longest-common-prefix/",
-    "date": "2026-04-29"
+    "description": "Find the maximum profit you can achieve by buying and selling a stock once.",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "date": "2026-04-30"
 }
