@@ -1,7 +1,7 @@
 {
-    "title": "Best Time to Buy and Sell Stock",
+    "title": "Palindrome Number",
     "difficulty": "Easy",
-    "description": "Find the maximum profit you can achieve by buying and selling a stock once.",
-    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-    "date": "2026-05-06"
+    "description": "Given an integer x, return true if x is a palindrome, and false otherwise.",
+    "link": "https://leetcode.com/problems/palindrome-number/",
+    "date": "2026-05-07"
 }
