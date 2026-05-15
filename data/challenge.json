@@ -1,7 +1,7 @@
 {
-    "title": "Roman to Integer",
+    "title": "Two Sum",
     "difficulty": "Easy",
-    "description": "Convert a roman numeral to an integer.",
-    "link": "https://leetcode.com/problems/roman-to-integer/",
-    "date": "2026-05-14"
+    "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
+    "link": "https://leetcode.com/problems/two-sum/",
+    "date": "2026-05-15"
 }
