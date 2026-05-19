@@ -1,7 +1,7 @@
 {
-    "title": "Merge Two Sorted Lists",
+    "title": "Best Time to Buy and Sell Stock",
     "difficulty": "Easy",
-    "description": "Merge two sorted linked lists and return it as a sorted list.",
-    "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
-    "date": "2026-05-18"
+    "description": "Find the maximum profit you can achieve by buying and selling a stock once.",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "date": "2026-05-19"
 }
