@@ -1,7 +1,7 @@
 {
-    "title": "Best Time to Buy and Sell Stock",
+    "title": "Remove Duplicates from Sorted Array",
     "difficulty": "Easy",
-    "description": "Find the maximum profit you can achieve by buying and selling a stock once.",
-    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-    "date": "2026-05-21"
+    "description": "Remove duplicates from a sorted array in-place such that each element appears only once.",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "date": "2026-05-22"
 }
