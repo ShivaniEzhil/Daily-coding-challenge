@@ -1,7 +1,7 @@
 {
-    "title": "Remove Duplicates from Sorted Array",
+    "title": "Palindrome Number",
     "difficulty": "Easy",
-    "description": "Remove duplicates from a sorted array in-place such that each element appears only once.",
-    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-    "date": "2026-05-22"
+    "description": "Given an integer x, return true if x is a palindrome, and false otherwise.",
+    "link": "https://leetcode.com/problems/palindrome-number/",
+    "date": "2026-05-23"
 }
