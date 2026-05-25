@@ -1,7 +1,7 @@
 {
-    "title": "Roman to Integer",
+    "title": "Remove Duplicates from Sorted Array",
     "difficulty": "Easy",
-    "description": "Convert a roman numeral to an integer.",
-    "link": "https://leetcode.com/problems/roman-to-integer/",
-    "date": "2026-05-24"
+    "description": "Remove duplicates from a sorted array in-place such that each element appears only once.",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "date": "2026-05-25"
 }
