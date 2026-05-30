@@ -1,7 +1,7 @@
 {
-    "title": "Search Insert Position",
+    "title": "Two Sum",
     "difficulty": "Easy",
-    "description": "Given a sorted array of distinct integers and a target value, return the index if the target is found.",
-    "link": "https://leetcode.com/problems/search-insert-position/",
-    "date": "2026-05-29"
+    "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
+    "link": "https://leetcode.com/problems/two-sum/",
+    "date": "2026-05-30"
 }
