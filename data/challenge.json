@@ -1,7 +1,7 @@
 {
-    "title": "Merge Two Sorted Lists",
+    "title": "Search Insert Position",
     "difficulty": "Easy",
-    "description": "Merge two sorted linked lists and return it as a sorted list.",
-    "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
-    "date": "2026-06-06"
+    "description": "Given a sorted array of distinct integers and a target value, return the index if the target is found.",
+    "link": "https://leetcode.com/problems/search-insert-position/",
+    "date": "2026-06-07"
 }
