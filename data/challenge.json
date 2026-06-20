@@ -1,7 +1,7 @@
 {
-    "title": "Remove Duplicates from Sorted Array",
+    "title": "Valid Parentheses",
     "difficulty": "Easy",
-    "description": "Remove duplicates from a sorted array in-place such that each element appears only once.",
-    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-    "date": "2026-06-19"
+    "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.",
+    "link": "https://leetcode.com/problems/valid-parentheses/",
+    "date": "2026-06-20"
 }
