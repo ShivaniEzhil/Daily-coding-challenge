@@ -3,5 +3,5 @@
     "difficulty": "Easy",
     "description": "Given a sorted array of distinct integers and a target value, return the index if the target is found.",
     "link": "https://leetcode.com/problems/search-insert-position/",
-    "date": "2026-06-28"
+    "date": "2026-06-29"
 }
