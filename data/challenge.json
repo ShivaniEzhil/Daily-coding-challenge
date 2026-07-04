@@ -1,7 +1,7 @@
 {
-    "title": "Remove Duplicates from Sorted Array",
+    "title": "Two Sum",
     "difficulty": "Easy",
-    "description": "Remove duplicates from a sorted array in-place such that each element appears only once.",
-    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-    "date": "2026-07-03"
+    "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
+    "link": "https://leetcode.com/problems/two-sum/",
+    "date": "2026-07-04"
 }
