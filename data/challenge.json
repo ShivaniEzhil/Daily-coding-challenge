@@ -1,7 +1,7 @@
 {
-    "title": "Remove Duplicates from Sorted Array",
+    "title": "Longest Common Prefix",
     "difficulty": "Easy",
-    "description": "Remove duplicates from a sorted array in-place such that each element appears only once.",
-    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-    "date": "2026-07-08"
+    "description": "Write a function to find the longest common prefix string amongst an array of strings.",
+    "link": "https://leetcode.com/problems/longest-common-prefix/",
+    "date": "2026-07-09"
 }
