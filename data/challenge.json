@@ -1,7 +1,7 @@
 {
-    "title": "Best Time to Buy and Sell Stock",
+    "title": "Search Insert Position",
     "difficulty": "Easy",
-    "description": "Find the maximum profit you can achieve by buying and selling a stock once.",
-    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-    "date": "2026-07-13"
+    "description": "Given a sorted array of distinct integers and a target value, return the index if the target is found.",
+    "link": "https://leetcode.com/problems/search-insert-position/",
+    "date": "2026-07-14"
 }
