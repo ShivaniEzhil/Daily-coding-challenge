@@ -1,7 +1,7 @@
 {
-    "title": "Roman to Integer",
+    "title": "Palindrome Number",
     "difficulty": "Easy",
-    "description": "Convert a roman numeral to an integer.",
-    "link": "https://leetcode.com/problems/roman-to-integer/",
-    "date": "2026-08-07"
+    "description": "Given an integer x, return true if x is a palindrome, and false otherwise.",
+    "link": "https://leetcode.com/problems/palindrome-number/",
+    "date": "2026-08-08"
 }
