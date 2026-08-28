@@ -1,7 +1,7 @@
 {
-    "title": "Remove Duplicates from Sorted Array",
+    "title": "Merge Two Sorted Lists",
     "difficulty": "Easy",
-    "description": "Remove duplicates from a sorted array in-place such that each element appears only once.",
-    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-    "date": "2026-08-27"
+    "description": "Merge two sorted linked lists and return it as a sorted list.",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "date": "2026-08-28"
 }
