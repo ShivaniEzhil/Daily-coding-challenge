@@ -1,7 +1,7 @@
 {
-    "title": "Search Insert Position",
+    "title": "Remove Duplicates from Sorted Array",
     "difficulty": "Easy",
-    "description": "Given a sorted array of distinct integers and a target value, return the index if the target is found.",
-    "link": "https://leetcode.com/problems/search-insert-position/",
-    "date": "2026-09-12"
+    "description": "Remove duplicates from a sorted array in-place such that each element appears only once.",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "date": "2026-09-13"
 }
