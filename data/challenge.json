@@ -1,7 +1,7 @@
 {
-    "title": "Roman to Integer",
+    "title": "Merge Two Sorted Lists",
     "difficulty": "Easy",
-    "description": "Convert a roman numeral to an integer.",
-    "link": "https://leetcode.com/problems/roman-to-integer/",
-    "date": "2026-10-02"
+    "description": "Merge two sorted linked lists and return it as a sorted list.",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "date": "2026-10-03"
 }
