@@ -1,7 +1,7 @@
 {
-    "title": "Merge Two Sorted Lists",
+    "title": "Valid Parentheses",
     "difficulty": "Easy",
-    "description": "Merge two sorted linked lists and return it as a sorted list.",
-    "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
-    "date": "2026-10-03"
+    "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.",
+    "link": "https://leetcode.com/problems/valid-parentheses/",
+    "date": "2026-10-04"
 }
