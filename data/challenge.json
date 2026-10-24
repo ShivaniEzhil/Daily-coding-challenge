@@ -1,7 +1,7 @@
 {
-    "title": "Search Insert Position",
+    "title": "Valid Parentheses",
     "difficulty": "Easy",
-    "description": "Given a sorted array of distinct integers and a target value, return the index if the target is found.",
-    "link": "https://leetcode.com/problems/search-insert-position/",
-    "date": "2026-10-23"
+    "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.",
+    "link": "https://leetcode.com/problems/valid-parentheses/",
+    "date": "2026-10-24"
 }
