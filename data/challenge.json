@@ -1,7 +1,7 @@
 {
-    "title": "Roman to Integer",
+    "title": "Climbing Stairs",
     "difficulty": "Easy",
-    "description": "Convert a roman numeral to an integer.",
-    "link": "https://leetcode.com/problems/roman-to-integer/",
-    "date": "2026-11-16"
+    "description": "You are climbing a staircase. It takes n steps to reach the top. Each time you can either climb 1 or 2 steps.",
+    "link": "https://leetcode.com/problems/climbing-stairs/",
+    "date": "2026-11-17"
 }
